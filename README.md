@@ -4,6 +4,19 @@
 使用maven+springboot+各种与springboot整合的技术搭建的架构
 以技术为核心,以模拟业务为测试
 
+#### 项目技术
+
+    假设你已经掌握了以下的技术,如果想了解更多本项目所用到的技术,请点击相应链接
+    
+- [JDK1.8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  运行环境
+- [springMVC](https://docs.spring.io/spring/docs/4.3.16.RELEASE/spring-framework-reference/htmlsingle/) 基础框架
+- [springboot](https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/)  基础框架
+- [mybatis:](http://www.mybatis.org/mybatis-3/zh/index.html) 数据库映射和操作组件
+- [mysql](https://dev.mysql.com/doc/refman/5.7/en/) 数据库链接驱动
+- [maven ](https://www.yiibai.com/maven/create-a-project-with-maven-template.html) 项目构建工具
+- [springfox-swagger2 2.8.0](http://springfox.github.io/springfox/docs/current/)   API文档生成组件
+
+
 #### 软件架构
 > 软件架构说明
 
